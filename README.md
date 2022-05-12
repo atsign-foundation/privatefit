@@ -1,5 +1,5 @@
 # Priv@teFit
-Priv@teFit is an open-source app allowing consumers to share health data with each other through a peer-to-peer encrypted connection. This originated as a winning project at HackPrinceton 2021 project by Raheem Idowu and Michelle Liu. We welcome contributions to the app (see Issues tab) via pull requests and want to hear about issues.
+Priv@teFit is an open-source app allowing consumers to share health data with each other through a peer-to-peer encrypted connection. This originated as a winning project at HackPrinceton 2021 project by Raheem Idowu and Michelle Liu. We welcome contributions to the app (see Issues tab) via pull requests and want to hear about ideas for new issues!
 
 ## Who is this for?
 This project is intended for any developer or designer interested in creating apps in Flutter and contributing to health data privacy. 
