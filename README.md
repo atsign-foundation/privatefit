@@ -11,8 +11,8 @@ We have issues open for prioritized app features that open-source developers. Fe
 We have issues open for prioritized app features to be designed and implemented. For each feature, designers can submit links to Figma / Adobe XD as a comment on the GitHub Issue. In particular, this current issue requires a new design (https://github.com/atsign-foundation/privatefit/issues/3).
 
 ## Installation & Dependencies
-Clone the repo: git clone https://github.com/atsign-foundation/privatefit.git
-Install Dart: https://dart.dev/get-dart
+Clone the repo: git clone https://github.com/atsign-foundation/privatefit.git <br>
+Install Dart: https://dart.dev/get-dart <br>
 Install Flutter: https://docs.flutter.dev/get-started/install
 
 ## Acknowledgement/Attribution
