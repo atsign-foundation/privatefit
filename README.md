@@ -5,7 +5,7 @@ Priv@teFit is an open-source app allowing consumers to share health data with ea
 This project is intended for any developer or designer interested in creating apps in Flutter and contributing to health data privacy. 
 
 ## How to Contribute as a Developer
-We have issues open for prioritized app features that open-source developers. Feel free to add ideas for features or bug fixes as issues on this repo. Contributions should be submitted as pull requests for review. See the CONTRIBUTING.md guide for more details! Issues # 1-3 are prioritized as they are required for most other fitness ap features to be implemented.
+We have issues open for prioritized app features that open-source developers. Feel free to add ideas for features or bug fixes as issues on this repo. Contributions should be submitted as pull requests for review. See the CONTRIBUTING.md guide for more details! Issues # 1-3 are prioritized as they are required for most other fitness app features to be implemented.
 
 ## How to Contribute as a Designer
 We have issues open for prioritized app features to be designed and implemented. For each feature, designers can submit links to Figma / Adobe XD as a comment on the GitHub Issue. In particular, this current issue requires a new design (https://github.com/atsign-foundation/privatefit/issues/3).
