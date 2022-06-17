@@ -11,7 +11,7 @@ We have issues open for prioritized app features that open-source developers. Fe
 We have issues open for prioritized app features to be designed and implemented. For each feature, designers can submit links to Figma / Adobe XD as a comment on the GitHub Issue. In particular, this current issue requires a new design (https://github.com/atsign-foundation/privatefit/issues/3).
 
 ## Why The @platform
-This open-source app is built on the @platform, a set of tools allowing developers to leverage existing app patterns to make use of the atProtocol. The @protocal allows two parties to securely exchange information (end-to-end encrypted). This technology was created by Atsign (atsign.com). This project leverages the atPlatformto accelerate Flutter development and ensure those who use the app have control over their data. See this developer website for more information about the technology (atsign.dev).
+This open-source app is built on the atPlatform, a set of tools allowing developers to leverage existing app patterns to make use of the atProtocol. The atProtocol allows two parties to securely exchange information (end-to-end encrypted). This technology was created by [Atsign](https://atsign.com). This project leverages the atPlatform to accelerate Flutter development and ensure those who use the app have control over their data. See this developer website for more information about the technology [atsign.dev](https://atsign.dev).
 
 ## Installation & Dependencies
 Clone the repo: git clone https://github.com/atsign-foundation/privatefit.git <br>
