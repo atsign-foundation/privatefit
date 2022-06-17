@@ -25,7 +25,7 @@ This project was forked from another repository (https://github.com/R4H33M/priva
 This project has an MIT license for open-source development.
 
 ## Maintainers
-This project is currently maintained by Atsign. We are welcoming any developer to support the maintenance of this project. If you are interested, please contact (sahil.mehtaAtsign.com)
+This project is currently maintained by Atsign. We are welcoming any developer to support the maintenance of this project. If you are interested, please contact (sahil.mehta@sign.com)
 
 
 
